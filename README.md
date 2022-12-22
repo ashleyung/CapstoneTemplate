@@ -1,1 +1,1 @@
-# CapstoneTemplate
+# Mini Weather Project
